@@ -1,0 +1,34 @@
+Flight of b93c and 14ce with db50 on ground Occurred @10:02am - 10:06am
+
+Wifi - from db50 (Captured 10:02 - 10:06 flight of b93c & 14ce) see plot
+db50: Wifi msgs 1647 - 1732, time 1539093720.66 - 1539093989.01
+b93c: Wifi msgs  260 -  346, time 1539093719.5  - 1539093989.01
+14ce: Wifi msgs  459 -  542, time 1539093724.75 - 1539093986.01
+
+Wifi - from b93c
+b93c: Missed Wifi between Monday and 11:15am, read 0.00\n for wifi sig
+
+Wifi - from 14ce (Captured 10:02 - 10:06 flight of b93c & 14ce)
+db50: Wifi msgs 1647 - 1728, time 1539093720.66 - 1539093975.17
+b93c: Wifi msgs  296 -  332, time 1539093832.27 - 1539093945.32 read 0.00\n for wifi sig
+14ce: Wifi msgs  457 -  543, time 1539093718.52 - 1539093989.12
+
+Wifi - from 211c
+lost all at 8:58, regained at 11:38 as expected
+
+===============
+
+LTE - from db50
+db50: Logs stop at 9:19:57am (1539091197.23) no LTE flight data
+
+LTE - from b93c
+b93c: No LTE logs between Monday and 11:01:40am, read 0.00\n for wifi sig
+
+LTE - from 14ce
+14ce: No LTE logs between 9:58am and 11:09am
+
+LTE - from 211c (Captured 10:02 - 10:06 flight of b93c & 14ce)
+db50: LTE msgs 1640 - 1732, time 1539093700.17 - 1539093989.31
+b93c: LTE msgs  254 -  345, time 1539093702.32 - 1539093987.44 read 0.00\n for wifi sig
+14ce: LTE msgs  451 -  542, time 1539093701.37 - 1539093987.55
+
