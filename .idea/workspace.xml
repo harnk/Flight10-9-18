@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0940fa37-1108-44c2-90d5-5ef28b9e19a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10-16-18/aroundtheblock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10-16-18/pics/IMG_4216.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10-16-18/pics/IMG_4217.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10-16-18/14cewifi.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28nov18/211c-demo-pibs-ltelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28nov18/211c-demo-pibs-wifilog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28nov18/db50-demo-pibs-ltelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28nov18/db50-demo-pibs-wifilog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/14ce-pibs-ltelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/14ce-pibs-wifilog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/14ce-squad-wifi.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/db50-pibs-ltelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/db50-pibs-wifilog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/db50-squad-lte.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/db50-squad-wifi.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/mqtt-capture.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SQuad10-18-18/squad-mqtt-capture.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1002-1006am/211cLTE.csv" afterPath="$PROJECT_DIR$/1002-1006am/211cLTE.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,81 +31,70 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="b93cwifi.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1002-1006am/b93cwifi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14cewifi.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1002-1006am/14cewifi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db50wifi.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1002-1006am/db50wifi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="110" column="143" lean-forward="false" selection-start-line="110" selection-start-column="143" selection-end-line="110" selection-end-column="143" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="211cLTE.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1002-1006am/211cLTE.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6945">
-              <caret line="463" column="19" lean-forward="false" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pibsmqttlog.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test10-11-18/pibsmqttlog.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1113">
-              <caret line="3401" column="56" lean-forward="true" selection-start-line="3401" selection-start-column="56" selection-end-line="3401" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aroundtheblock.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="aroundtheblock.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10-16-18/aroundtheblock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15379">
-              <caret line="38" column="201" lean-forward="true" selection-start-line="38" selection-start-column="201" selection-end-line="38" selection-end-column="201" />
+            <state relative-caret-position="570">
+              <caret line="38" column="201" lean-forward="false" selection-start-line="38" selection-start-column="201" selection-end-line="38" selection-end-column="201" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="allLTE.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/allLTE.txt">
+      <file leaf-file-name="mqtt-capture.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SQuad10-18-18/mqtt-capture.txt">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db50-demo-pibs-wifilog.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/28nov18/db50-demo-pibs-wifilog.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127620">
-              <caret line="8508" column="164" lean-forward="false" selection-start-line="8508" selection-start-column="164" selection-end-line="8508" selection-end-column="174" />
+            <state relative-caret-position="0">
+              <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes.txt">
+      <file leaf-file-name="db50-demo-pibs-ltelog.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/28nov18/db50-demo-pibs-ltelog.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+            <state relative-caret-position="345">
+              <caret line="151" column="107" lean-forward="false" selection-start-line="151" selection-start-column="107" selection-end-line="151" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="211c-demo-pibs-ltelog.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/28nov18/211c-demo-pibs-ltelog.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="211c-demo-pibs-wifilog.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/28nov18/211c-demo-pibs-wifilog.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dronelog.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/28nov18/dronelog.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4893">
+              <caret line="1113" column="127" lean-forward="false" selection-start-line="1113" selection-start-column="126" selection-end-line="1113" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -107,7 +112,6 @@
       <find>b827eb96b93c</find>
       <find>&quot;msg_num&quot;: 2769</find>
       <find>153909</find>
-      <find>}},</find>
       <find>15390937</find>
       <find>1539093989</find>
       <find>1539093</find>
@@ -118,6 +122,8 @@
       <find>wifi_sig</find>
       <find>/70</find>
       <find>Client mosqsub/124362-netscale received PUBLISH (d0, q0, r0, m0, 'pibs/clients/status/', ... (180 bytes))</find>
+      <find>b827eb4667a8</find>
+      <find>}},</find>
     </findStrings>
     <replaceStrings>
       <replace>0</replace>
@@ -147,6 +153,19 @@
         <option value="$PROJECT_DIR$/allLTE.txt" />
         <option value="$PROJECT_DIR$/test10-11-18/pibsmqttlog.txt" />
         <option value="$PROJECT_DIR$/10-16-18/aroundtheblock.json" />
+        <option value="$PROJECT_DIR$/10-16-18/14ce-pibs-ltelog.txt" />
+        <option value="$PROJECT_DIR$/10-16-18/14ce-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/10-16-18/db50-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/10-16-18/211c-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/10-16-18/b93c-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/10-16-18/db50-pibs-ltelog.txt" />
+        <option value="$PROJECT_DIR$/SQuad10-18-18/db50-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/SQuad10-18-18/14ce-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/SQuad10-18-18/db50-pibs-ltelog.txt" />
+        <option value="$PROJECT_DIR$/SQuad10-18-18/mqtt-capture.txt" />
+        <option value="$PROJECT_DIR$/28nov18/db50-demo-pibs-wifilog.txt" />
+        <option value="$PROJECT_DIR$/28nov18/211c-demo-pibs-ltelog.txt" />
+        <option value="$PROJECT_DIR$/28nov18/211c-demo-pibs-wifilog.txt" />
       </list>
     </option>
   </component>
@@ -157,10 +176,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="151" />
-    <option name="width" value="2468" />
-    <option name="height" value="1289" />
+    <option name="x" value="-1814" />
+    <option name="y" value="145" />
+    <option name="width" value="1680" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -200,35 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test10-11-18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flight10-9-18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flight10-9-18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1002-1006am" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flight10-9-18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flight10-9-18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10-16-18" />
+              <option name="myItemId" value="28nov18" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,6 +231,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/28nov18" />
+      <recent name="$PROJECT_DIR$/SQuad10-18-18" />
+      <recent name="$PROJECT_DIR$/10-16-18" />
+      <recent name="$PROJECT_DIR$/10-16-18/pics" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,6 +253,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +345,14 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RRunConfigurationType" factoryName="R">
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -421,28 +439,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="151" width="2468" height="1289" extended-state="0" />
+    <frame x="-1814" y="145" width="1680" height="965" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12613355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -461,8 +479,7 @@
     <entry file="file://$PROJECT_DIR$/1002-1006am/b93cwifi.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -470,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,23 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
           <caret line="110" column="143" lean-forward="false" selection-start-line="110" selection-start-column="143" selection-end-line="110" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1002-1006am/211cLTE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6945">
-          <caret line="463" column="19" lean-forward="false" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test10-11-18/pibsmqttlog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51015">
-          <caret line="3401" column="56" lean-forward="true" selection-start-line="3401" selection-start-column="56" selection-end-line="3401" selection-end-column="83" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127620">
           <caret line="8508" column="164" lean-forward="false" selection-start-line="8508" selection-start-column="164" selection-end-line="8508" selection-end-column="174" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,47 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1002-1006am/b93cwifi.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1002-1006am/14cewifi.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1002-1006am/db50wifi.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" column="143" lean-forward="false" selection-start-line="110" selection-start-column="143" selection-end-line="110" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allLTE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127620">
-          <caret line="8508" column="164" lean-forward="false" selection-start-line="8508" selection-start-column="164" selection-end-line="8508" selection-end-column="174" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6945">
           <caret line="463" column="19" lean-forward="false" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
           <caret line="110" column="143" lean-forward="false" selection-start-line="110" selection-start-column="143" selection-end-line="110" selection-end-column="143" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -590,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127620">
           <caret line="8508" column="164" lean-forward="true" selection-start-line="8508" selection-start-column="164" selection-end-line="8508" selection-end-column="174" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6945">
           <caret line="463" column="19" lean-forward="false" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,15 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
           <caret line="110" column="143" lean-forward="false" selection-start-line="110" selection-start-column="143" selection-end-line="110" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127620">
           <caret line="8508" column="164" lean-forward="false" selection-start-line="8508" selection-start-column="164" selection-end-line="8508" selection-end-column="174" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,22 +650,185 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6945">
           <caret line="463" column="19" lean-forward="false" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test10-11-18/pibsmqttlog.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="3401" column="56" lean-forward="true" selection-start-line="3401" selection-start-column="56" selection-end-line="3401" selection-end-column="83" />
-          <folding />
+        <state relative-caret-position="51015">
+          <caret line="3401" column="56" lean-forward="false" selection-start-line="3401" selection-start-column="56" selection-end-line="3401" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/pics/IMG_4217.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/pics/IMG_4216.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/14cewifi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/b93c-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="298" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="298" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/211c-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="275" column="71" lean-forward="false" selection-start-line="275" selection-start-column="71" selection-end-line="275" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/db50-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="153" lean-forward="false" selection-start-line="1" selection-start-column="141" selection-end-line="1" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/14ce-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="326" column="51" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="360" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10-16-18/aroundtheblock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15379">
-          <caret line="38" column="201" lean-forward="true" selection-start-line="38" selection-start-column="201" selection-end-line="38" selection-end-column="201" />
+        <state relative-caret-position="570">
+          <caret line="38" column="201" lean-forward="false" selection-start-line="38" selection-start-column="201" selection-end-line="38" selection-end-column="201" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/14ce-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="94" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="358" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/db50-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="278" column="89" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="293" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/211c-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-16-18/b93c-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3615">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQuad10-18-18/mqtt-capture.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-57212">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3859" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28nov18/db50-demo-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQuad10-18-18/14ce-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQuad10-18-18/14ce-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3612" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQuad10-18-18/db50-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="3713" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3714" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQuad10-18-18/db50-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="3138" column="125" lean-forward="false" selection-start-line="3138" selection-start-column="125" selection-end-line="3138" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28nov18/dronelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4893">
+          <caret line="1113" column="127" lean-forward="false" selection-start-line="1113" selection-start-column="126" selection-end-line="1113" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28nov18/db50-demo-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="151" column="107" lean-forward="false" selection-start-line="151" selection-start-column="107" selection-end-line="151" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28nov18/211c-demo-pibs-ltelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28nov18/211c-demo-pibs-wifilog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
